@@ -1,3 +1,7 @@
+# projects
+### [iced-todo](https://github.com/Pickles888/iced-todo)
+todo-list gui app written in pure rust with iced :)
+
 # languages
 ### in order of confidence:
 - [rust](https://www.rust-lang.org/)
@@ -17,10 +21,6 @@
 - [git](https://git-scm.com/)
 - [sqlite](https://www.sqlite.org/index.html)
 - [html](https://html.spec.whatwg.org/)
-
-# projects
-### [iced-todo](https://github.com/Pickles888/iced-todo)
-todo-list gui app written in pure rust with iced :)
 
 # what im working on (and want to do)
 - [quotes](https://github.com/Pickles888/quotes)
