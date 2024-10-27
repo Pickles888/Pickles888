@@ -9,8 +9,8 @@ todo-list gui app written in pure rust with iced :)
   - [yew](https://yew.rs/) (kinda)
   - [tokio](https://tokio.rs/) (kinda)
 - [haskell](https://www.haskell.org/)
-- [nix](https://nix.dev/manual/nix/2.18/language/index.html)
 - [java](https://www.java.com/en/)
+- [nix](https://nix.dev/manual/nix/2.18/language/index.html)
 - [c++](https://isocpp.org/)
 
 ## tools
