@@ -14,7 +14,7 @@ todo-list gui app written in pure rust with iced :)
 - [c++](https://isocpp.org/)
 
 ## tools
-### in order of confidence
+### in order of confidence:
 - [linux](https://kernel.org/)
   - [nixos](https://nixos.org/)
   - [arch linux](https://archlinux.org/)
