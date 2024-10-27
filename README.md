@@ -21,15 +21,10 @@
 # projects
 ### [iced-todo](https://github.com/Pickles888/iced-todo)
 todo-list gui app written in pure rust with iced :)
-  
-### [quotes](https://github.com/Pickles888/quotes) (in progress)
-A database, discord bot, and website written in rust and haskell using sqlite, html, and css
-  - [ ] database (in progress)
-  - [ ] discord bot
-  - [ ] website
 
 # what im working on (and want to do)
 - [quotes](https://github.com/Pickles888/quotes)
+- [Ayayan](https://github.com/Pickles888/Ayayan)
 - messaging app (in rust using iced)
 - learning math ._.
 - becomeing more confident with haskell and functional programming
