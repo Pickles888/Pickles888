@@ -2,7 +2,8 @@
 ### [iced-todo](https://github.com/Pickles888/iced-todo)
 todo-list gui app written in pure rust with iced :)
 
-# languages
+# what i know
+## languages
 ### in order of confidence:
 - [rust](https://www.rust-lang.org/)
   - [iced](https://iced.rs/)
