@@ -25,4 +25,4 @@ todo-list gui app written in pure rust with iced :)
 
 # what im working on (and want to do)
 - learning math ._.
-- Reading _Types and Programming Languages_ by Benjamin C. Pierce
+- Reading _Types and Programming Languages_ by Benjamin C. Pierce (Programming Langauge Theory)
